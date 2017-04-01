@@ -56,7 +56,7 @@ module.exports = {
         "key-spacing": "error",
         "linebreak-style": [
             "error",
-            "windows"
+            "unix"
         ],
         "lines-around-comment": "error",
         "max-depth": "error",
