@@ -18,6 +18,7 @@ testem.log
 *~
 .DS_Store
 .vscode/*
+.eslintrc.js
 
 # we don't want to accidentally check our secret credentials into the repo
 credentials.js
